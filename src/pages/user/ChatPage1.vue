@@ -45,6 +45,7 @@
 <script>
 import axios from "axios";
 export default {
+  title: "Chat Page 1",
   data() {
     return {
       userInput: {

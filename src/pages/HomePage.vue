@@ -18,3 +18,8 @@
     </div>
   </div>
 </template>
+<script>
+export default {
+  title: "Home Page",
+};
+</script>
