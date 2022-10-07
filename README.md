@@ -1,35 +1,10 @@
-# simple-chat
+# Simple Chat App
+The one of school project, making chat application that allowed you to chatting using multiple browser or pages. <br/>
+Created only using JSON for dummy database, Vuejs, and Tailwindcss.
 
-This template should help get you started developing with Vue 3 in Vite.
+## Get Started
+1. Install json-server package to run json file in localhost (http://localhost:3000) using NPM package manager. <br/>
+   ```npm i -g json-server```
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+2. Clone this project and install all package using yarn (default) or NPM package manager (remove yarn.lock).
+3. Enjoy!!
