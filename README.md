@@ -1,5 +1,5 @@
 # Simple Chat App
-The one of school project, making chat application that allowed you to chatting using multiple browser or pages. <br/>
+The one of school project. <br/> Making chat application that allowed you to chatting using multiple browser or pages. <br/>
 Created only using JSON for dummy database, Vuejs, and Tailwindcss.
 
 ## Get Started
